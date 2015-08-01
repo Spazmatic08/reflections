@@ -13,3 +13,9 @@ repository? What value do you think it offers?
     the next commit, and which are not. It makes it easier to work 
     on multiple issues at once, for one. 
 
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+    Simple - only use the add command on files whose changes you feel
+    are ready for a commit. 
+
