@@ -19,3 +19,12 @@ logical change?
     Simple - only use the add command on files whose changes you feel
     are ready for a commit. 
 
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+    Some changes are better made a series of other logical changes that
+    don't fit well as a single commit. An experimental feature, for 
+    instance. Splitting a seperate branch for that feature would let 
+    you work on the feature while still hunting down bugs in the base 
+    code.
+
