@@ -28,3 +28,9 @@ history organized? How would branches help?
     you work on the feature while still hunting down bugs in the base 
     code.
 
+How do the diagrams help you visualize the branch structure?
+
+    You can easily see which commit a given branch was established on,
+    and note that the master branch remains independent of the changes
+    made in the branches.
+
