@@ -42,3 +42,12 @@ it in the diagram the way we do?
     diagram attached to two parents, since the two branches have 
     effectively come together into a single new one.
 
+What are the pros and cons of Git's automatic merging vs. always doing
+merges manually?
+
+    Git's merging mechanisms eliminate the very real possibility of 
+    human error when porting changes from one branch to another. On the
+    other hand, merging them automatically can introduce their own errors
+    due to poor interactions between code that would be caught by a human
+    operator.
+
