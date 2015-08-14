@@ -34,3 +34,11 @@ How do the diagrams help you visualize the branch structure?
     and note that the master branch remains independent of the changes
     made in the branches.
 
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+
+    Merging two branches conglomerates the changes made to both branches
+    since they diverged. It's represented as a single node on the tree
+    diagram attached to two parents, since the two branches have 
+    effectively come together into a single new one.
+
