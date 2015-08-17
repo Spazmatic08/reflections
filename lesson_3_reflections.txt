@@ -10,3 +10,12 @@ stay up-to-date with your remote repository?
     updating system.
 
 
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of the other?
+
+    Forks directly recreate a repository on GitHub itself. Clones recreate them on the 
+    local machine. Branches simply represent a different version of the same repository.
+    Forks are for making permanent changes without altering the original repository, 
+    clones are for recreating the information somewhere you can access and alter locally,
+    and branches are for tweaking the code in a specific way to later be merged back.
+
