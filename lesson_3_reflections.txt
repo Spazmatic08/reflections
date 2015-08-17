@@ -19,3 +19,8 @@ instead of the other?
     clones are for recreating the information somewhere you can access and alter locally,
     and branches are for tweaking the code in a specific way to later be merged back.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    Mostly to circumvent connectivity issues. Otherwise, it's easier and more accurate
+    to consult the GitHub remote itself.
+
