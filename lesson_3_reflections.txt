@@ -24,3 +24,10 @@ What is the benefit of having a copy of the last known state of the remote store
     Mostly to circumvent connectivity issues. Otherwise, it's easier and more accurate
     to consult the GitHub remote itself.
 
+How would you collaborate without using Git or GitHub? What would be easier, what would
+be harder?
+
+    For the most part, we'd be limited to individually constructing portions of the
+    project. This is thorough, but horrendously inefficient, frustrating, and time
+    consuming. 
+
